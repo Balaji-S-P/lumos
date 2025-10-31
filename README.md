@@ -67,7 +67,7 @@ lumos/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/lumos.git
+   git clone https://github.com/Balaji-S-P/lumos.git
    cd lumos
    ```
 
@@ -182,10 +182,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Built with Chrome's on-device AI APIs
@@ -193,9 +189,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/lumos](https://github.com/yourusername/lumos)
+Project Link: [https://github.com/Balaji-S-P/lumos](https://github.com/yourusername/lumos)
 
 ---
 
